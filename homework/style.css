@@ -1,0 +1,13 @@
+
+td, th {
+   border: 1px solid black; 
+   padding: 21px;
+}
+img {
+    width: auto; height: 40px;
+    
+  }
+  
+  li {
+    font-size: 24px;
+  }
